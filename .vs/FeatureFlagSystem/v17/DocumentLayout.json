@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Csharp Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|f:\\csharp projects\\featureflag.sdk\\featureflagclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|solutionrelative:featureflag.sdk\\featureflagclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|f:\\csharp projects\\featureflag.sdk\\evaluatonengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|solutionrelative:featureflag.sdk\\evaluatonengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|f:\\csharp projects\\featureflag.sdk\\models\\featureflagdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|solutionrelative:featureflag.sdk\\models\\featureflagdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|f:\\csharp projects\\featureflag.sdk\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|solutionrelative:featureflag.sdk\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|f:\\csharp projects\\featureflag.sdk\\featureflag.sdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|solutionrelative:featureflag.sdk\\featureflag.sdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|f:\\csharp projects\\featureflag.sdk\\ifeatureflagclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|solutionrelative:featureflag.sdk\\ifeatureflagclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|f:\\csharp projects\\featureflag.sdk\\store\\featurestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCAB2F9-6880-4150-9985-6E84F05EF133}|FeatureFlag.SDK\\FeatureFlag.SDK.csproj|solutionrelative:featureflag.sdk\\store\\featurestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\FeatureFlag.SDK\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "FeatureFlag.SDK\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "F:\\Csharp Projects\\FeatureFlag.SDK\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "FeatureFlag.SDK\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:55:59.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeatureFlag.SDK",
+              "DocumentMoniker": "F:\\Csharp Projects\\FeatureFlag.SDK\\FeatureFlag.SDK.csproj",
+              "RelativeDocumentMoniker": "FeatureFlag.SDK\\FeatureFlag.SDK.csproj",
+              "ToolTip": "F:\\Csharp Projects\\FeatureFlag.SDK\\FeatureFlag.SDK.csproj",
+              "RelativeToolTip": "FeatureFlag.SDK\\FeatureFlag.SDK.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T15:29:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeatureFlagClient.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\FeatureFlag.SDK\\FeatureFlagClient.cs",
+              "RelativeDocumentMoniker": "FeatureFlag.SDK\\FeatureFlagClient.cs",
+              "ToolTip": "F:\\Csharp Projects\\FeatureFlag.SDK\\FeatureFlagClient.cs",
+              "RelativeToolTip": "FeatureFlag.SDK\\FeatureFlagClient.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:22:56.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeatureFlagDefinition.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\FeatureFlag.SDK\\Models\\FeatureFlagDefinition.cs",
+              "RelativeDocumentMoniker": "FeatureFlag.SDK\\Models\\FeatureFlagDefinition.cs",
+              "ToolTip": "F:\\Csharp Projects\\FeatureFlag.SDK\\Models\\FeatureFlagDefinition.cs",
+              "RelativeToolTip": "FeatureFlag.SDK\\Models\\FeatureFlagDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:30:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvaluatonEngine.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\FeatureFlag.SDK\\EvaluatonEngine.cs",
+              "RelativeDocumentMoniker": "FeatureFlag.SDK\\EvaluatonEngine.cs",
+              "ToolTip": "F:\\Csharp Projects\\FeatureFlag.SDK\\EvaluatonEngine.cs",
+              "RelativeToolTip": "FeatureFlag.SDK\\EvaluatonEngine.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:30:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFeatureFlagClient.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\FeatureFlag.SDK\\IFeatureFlagClient.cs",
+              "RelativeDocumentMoniker": "FeatureFlag.SDK\\IFeatureFlagClient.cs",
+              "ToolTip": "F:\\Csharp Projects\\FeatureFlag.SDK\\IFeatureFlagClient.cs",
+              "RelativeToolTip": "FeatureFlag.SDK\\IFeatureFlagClient.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:17:47.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeatureStore.cs",
+              "DocumentMoniker": "F:\\Csharp Projects\\FeatureFlag.SDK\\Store\\FeatureStore.cs",
+              "RelativeDocumentMoniker": "FeatureFlag.SDK\\Store\\FeatureStore.cs",
+              "ToolTip": "F:\\Csharp Projects\\FeatureFlag.SDK\\Store\\FeatureStore.cs",
+              "RelativeToolTip": "FeatureFlag.SDK\\Store\\FeatureStore.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:35:40.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
