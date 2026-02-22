@@ -12,7 +12,7 @@ namespace FeatureFlag.SDK.Models
         public bool IsEnabled { get; set; }
 
         // For Percentage Rollouts (0 to 100)
-        public int RollutPercentage { get; set; }
+        public int RolloutPercentage { get; set; }
 
         // For specific user targetting (e.g. beta testers)
         public HashSet<string> TargetUserIds { get; set; } = new();

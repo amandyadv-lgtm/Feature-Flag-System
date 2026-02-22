@@ -24,7 +24,7 @@ namespace FeatureFlag.AdminAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> GetFlags()
         {
-            return Ok(_context.FeatureFlags.ToListAsync());
+            return Ok( await _context.FeatureFlags.ToListAsync());
         }
 
         [HttpPost]
@@ -48,7 +48,7 @@ namespace FeatureFlag.AdminAPI.Controllers
             // After saving to DB, we broadcast the update to all connected SDK clients instantly.
             // We transform the DB model to the SDK model format if they differ, 
             // but here we send the raw object for simplicity.
-            await _hubContext.Clients.All.SendAsync("RecieveFlagUpdate", flag);
+            await _hubContext.Clients.All.SendAsync("ReceiveFlagUpdate", flag);
 
             return Ok(flag);
 

@@ -21,11 +21,11 @@ namespace FeatureFlag.SDK
                 return true;
             }
 
-            if(flag.RollutPercentage > 0)
+            if(flag.RolloutPercentage > 0)
             {
                 var hash = GetDeterministicHash($"{userid} - {flag.Key}");
                 var userbucket = hash % 100;
-                return userbucket < flag.RollutPercentage;
+                return userbucket < flag.RolloutPercentage;
             }
             return false;
         }
